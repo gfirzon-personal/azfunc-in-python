@@ -1,0 +1,2 @@
+Quickstart: Create a function in Azure from the command line
+https://learn.microsoft.com/en-us/azure/azure-functions/how-to-create-function-azure-cli?pivots=programming-language-python&tabs=windows%2Cbash%2Cazure-cli
