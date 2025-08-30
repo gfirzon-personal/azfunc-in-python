@@ -1,0 +1,46 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python_packages/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Azure Functions
+local.settings.json
+.secrets
+appsettings.json
+
+# Development
+.vs
+.vscode/
+*.user
+*.suo
+bin/
+obj/
+
+# Node modules (if any)
+node_modules/
+dist/
+
+# Azurite artifacts
+__blobstorage__
+__queuestorage__
+__azurite_db*__.json
+
+# Documentation
+*.md
+README.md
+
+# Build artifacts
+Dockerfile
+.dockerignore

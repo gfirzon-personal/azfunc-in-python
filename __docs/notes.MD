@@ -19,3 +19,5 @@ az functionapp create --resource-group "AzureFunctionsQuickstart-rg" --name gfir
 ```sh
 func azure functionapp publish gfirzonsampleazapp
 ```
+
+https://hub.docker.com/r/microsoft/azure-functions-python
